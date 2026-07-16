@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# Track these files
+!.gitignore
+!project final.ipynb
